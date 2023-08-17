@@ -1,24 +1,24 @@
-const fs = require('fs');
-const path = require('path');
-function GetHierachy(path)
-{
-    const subPaths = [];
+$(document).ready(function () {
+    const subPagesContainer = $('#subPagesContainer');
 
-    function traverseDirectory(currentPath) {
-        const items = fs.readdirSync(currentPath);
+    // Path to the directory containing sub-pages
+    const subPagesDirectory = 'Subpages/';
 
-        items.forEach(item => {
-            const itemPath = path.join(currentPath, item);
-            subPaths.push(itemPath);
-
-            if (fs.statSync(itemPath).isDirectory()) {
-                traverseDirectory(itemPath);
-            }
+    // Function to load and inject HTML content
+    function loadAndInjectContent(filePath) {
+        $.get(filePath, function (data) {
+            subPagesContainer.append(data);
         });
     }
 
-    traverseDirectory(basePath);
-    return subPaths;
-
-}
-console.log(GetHierachy("SubPages"));
+    // Load and inject content for each sub-page
+    $.ajax({
+        url: subPagesDirectory,
+        success: function (data) {
+            $(data).find('a[href$=".html"]').each(function () {
+                const subPagePath = $(this).attr('href');
+                loadAndInjectContent(subPagePath);
+            });
+        }
+    });
+});
