@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tests on Hello World</title>
+    <link>https://CYix1.github.io/PCG/test/</link>
+    <description>Recent content in Tests on Hello World</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://CYix1.github.io/PCG/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://CYix1.github.io/PCG/test/00_readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://CYix1.github.io/PCG/test/00_readme/</guid>
+      <description>&lt;p&gt;These Markdown files are about the topic of Procedural content generation and should extend the knowledge gamespace graph by Daniel Dyrda.&#xA;!!!The structure is WIP!!!&lt;/p&gt;&#xA;&lt;h1 id=&#34;procedural-content-generation-in-games-book&#34;&gt;&lt;a href=&#34;https://www.pcgbook.com/&#34;&gt;Procedural Content Generation in Games book&lt;/a&gt;:&lt;/h1&gt;&#xA;&lt;p&gt;These chapters are mostly just bullet points about the most important and the examples given from the book.&#xA;If you don&amp;rsquo;t understand the content here, just refer to the online version ^^&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[[01_Procedural_Content_Generation_(PCG)]]&lt;/li&gt;&#xA;&lt;li&gt;[[02_Search_based_PCG]]&lt;/li&gt;&#xA;&lt;li&gt;[[03_Constructive_Methods]]&lt;/li&gt;&#xA;&lt;li&gt;[[04_Fractal_and_noise]]&lt;/li&gt;&#xA;&lt;li&gt;[[05_Grammars]]&lt;/li&gt;&#xA;&lt;li&gt;[[06_Rules_and_mechanics]]&lt;/li&gt;&#xA;&lt;li&gt;[[07_Planning_with_applications_to_quests_and_story]]&lt;/li&gt;&#xA;&lt;li&gt;[[08_Answer_Set_programming_(ASP)]]&lt;/li&gt;&#xA;&lt;li&gt;[[09_Representation_ for_search_based_methods]]&lt;/li&gt;&#xA;&lt;li&gt;[[10_The_experience_driven_perspective]]&lt;/li&gt;&#xA;&lt;li&gt;[[11_Mixed_initiative_content_creation]]&lt;/li&gt;&#xA;&lt;li&gt;[[12_Evaluating_content_generators]]&#xA;-&amp;gt; chapter of interviews with gamedesigner &lt;a href=&#34;https://www.pcgbook.com/interviews.pdf&#34;&gt;interviews.pdf&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Another categorization by &lt;a href=&#34;http://pcg.wikidot.com/what-pcg-is&#34;&gt;PCG wikidot&lt;/a&gt; includes following types:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
