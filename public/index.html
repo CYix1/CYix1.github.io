@@ -111,34 +111,118 @@
       
       <div class="blah w-100">
         <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="/00_readme/" class="color-inherit dim link">
+          <a href="/pcgbook/01_procedural_content_generation_pcg/" class="color-inherit dim link">
             
             </a>
         </h1>
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          <p>These Markdown files are about the topic of Procedural content generation and should extend the knowledge gamespace graph by Daniel Dyrda.
-!!!The structure is WIP!!!</p>
-<h1 id="procedural-content-generation-in-games-book"><a href="https://www.pcgbook.com/">Procedural Content Generation in Games book</a>:</h1>
-<p>These chapters are mostly just bullet points about the most important and the examples given from the book.
-If you don&rsquo;t understand the content here, just refer to the online version ^^</p>
+          <p>online link: <a href="https://www.pcgbook.com/chapter01.pdf">chapter01.pdf</a></p>
+<hr>
+<h1 id="definition">Definition</h1>
+<p>note: mostly [pcgbook]</p>
+<p><strong>Procedual Content Generation (PCG)</strong>:
+PCG is the algorithmic creation of game content with limited or indirect user input. In other words, PCG refers to computer software
+that can create game content on its own, or together with one or many human players
+or designers.  [pcgbook]</p>
+<p><strong>Content</strong>:
+includes &hellip;</p>
 <ul>
-<li>[[01_Procedural_Content_Generation_(PCG)]]</li>
-<li>[[02_Search_based_PCG]]</li>
-<li>[[03_Constructive_Methods]]</li>
-<li>[[04_Fractal_and_noise]]</li>
-<li>[[05_Grammars]]</li>
-<li>[[06_Rules_and_mechanics]]</li>
-<li>[[07_Planning_with_applications_to_quests_and_story]]</li>
-<li>[[08_Answer_Set_programming_(ASP)]]</li>
-<li>[[09_Representation_ for_search_based_methods]]</li>
-<li>[[10_The_experience_driven_perspective]]</li>
-<li>[[11_Mixed_initiative_content_creation]]</li>
-<li>[[12_Evaluating_content_generators]]
--&gt; chapter of interviews with gamedesigner <a href="https://www.pcgbook.com/interviews.pdf">interviews.pdf</a></li>
+<li>levels</li>
+<li>maps</li>
+<li>game rules</li>
+<li>textures</li>
+<li>stories</li>
+<li>items</li>
+<li>quests</li>
+<li>music</li>
+<li>weapons</li>
+<li>vehicles</li>
+<li>characters</li>
+<li>etc.</li>
 </ul>
-<p>Another categorization by <a href="http://pcg.wikidot.com/what-pcg-is">PCG wikidot</a> includes following types:</p>
+<p>NPC AI does not count towards content according to [pcgbook]</p>
         </div>
-        <a href="/00_readme/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+        <a href="/pcgbook/01_procedural_content_generation_pcg/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+          <div class="w-100 mb4 relative">
+            
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+    <div class="flex-column flex-row-ns flex">
+      
+      <div class="blah w-100">
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/pcgbook/02_search_based_pcg/" class="color-inherit dim link">
+            
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          <p>online link: <a href="https://www.pcgbook.com/chapter02.pdf">chapter02.pdf</a></p>
+<hr>
+<p>Search-based Procedural content generation is the use of evolutionary computation and similar methods to generate game content.</p>
+<p>Represent content so it will become searchable =&gt; create evaluation function.</p>
+<h1 id="definitions">Definitions</h1>
+<p>A Search-based approach to solving a content generation problem consists of following core components:</p>
+<ul>
+<li>
+<p><strong>A search algorithm</strong> is the &ldquo;engine&rdquo; of a Search-based method. Often a relatively simple evolutionary algorithm works well enough. Sometimes more sophisticated (e.g taking constrains into account) or specialized algorithms are better</p>
+        </div>
+        <a href="/pcgbook/02_search_based_pcg/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+          <div class="w-100 mb4 relative">
+            
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+    <div class="flex-column flex-row-ns flex">
+      
+      <div class="blah w-100">
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/pcgbook/03_constructive_methods/" class="color-inherit dim link">
+            
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          <p>online link: <a href="https://www.pcgbook.com/chapter03.pdf">chapter03.pdf</a></p>
+<hr>
+<ul>
+<li>commonly used for dungeon, and level generation in rogue like and platformers</li>
+<li>predictable, short time</li>
+<li><strong>Binary space partitioning</strong>
+<ul>
+<li>recursively subdivide an area into even smaller units</li>
+</ul>
+</li>
+<li><strong>Agent-based</strong>
+<ul>
+<li>&ldquo;digging out&rdquo; a dungeon by traversing it in some way</li>
+</ul>
+</li>
+<li><strong>Grammar-based methods</strong>
+<ul>
+<li>expanding an axiom using production rules</li>
+</ul>
+</li>
+<li><strong>Cellular automata</strong>
+<ul>
+<li>Stochastic, iterative method</li>
+</ul>
+</li>
+<li></li>
+</ul>
+        </div>
+        <a href="/pcgbook/03_constructive_methods/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
       </div>
     </div>
   </div>
@@ -148,6 +232,36 @@ If you don&rsquo;t understand the content here, just refer to the online version
         
       </section>
 
+      
+        <section class="w-100">
+          <h1 class="f3">More</h1>
+          
+          
+            <h2 class="f5 fw4 mb4 dib mr3">
+              <a href="/pcgbook/04_fractal_and_noise/" class="link black dim">
+                
+              </a>
+            </h2>
+          
+            <h2 class="f5 fw4 mb4 dib mr3">
+              <a href="/pcgbook/05_grammars/" class="link black dim">
+                
+              </a>
+            </h2>
+          
+            <h2 class="f5 fw4 mb4 dib mr3">
+              <a href="/pcgbook/06_rules_and_mechanics/" class="link black dim">
+                
+              </a>
+            </h2>
+          
+            <h2 class="f5 fw4 mb4 dib mr3">
+              <a href="/pcgbook/07_planning_with_applications_to_quests_and_story/" class="link black dim">
+                
+              </a>
+            </h2>
+          
+        </section>
       
 
     </div>

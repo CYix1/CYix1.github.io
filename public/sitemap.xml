@@ -4,9 +4,81 @@
   <url>
     <loc>http://localhost:1313/00_readme/</loc>
   </url><url>
+    <loc>http://localhost:1313/algorithms_concepts/cellular-automata/</loc>
+  </url><url>
+    <loc>http://localhost:1313/algorithms_concepts/grammars/</loc>
+  </url><url>
+    <loc>http://localhost:1313/algorithms_concepts/marching-cubes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/algorithms_concepts/model-synthesis_wfc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/algorithms_concepts/noise/</loc>
+  </url><url>
+    <loc>http://localhost:1313/algorithms_concepts/random-placement-methods/</loc>
+  </url><url>
+    <loc>http://localhost:1313/algorithms_concepts/subdivision-stuff/</loc>
+  </url><url>
+    <loc>http://localhost:1313/algorithms_concepts/template-for-algorithms/</loc>
+  </url><url>
+    <loc>http://localhost:1313/further-resources/</loc>
+  </url><url>
+    <loc>http://localhost:1313/games-featuring-pcg/games/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pcgbook/01_procedural_content_generation_pcg/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pcgbook/02_search_based_pcg/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pcgbook/03_constructive_methods/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pcgbook/04_fractal_and_noise/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pcgbook/05_grammars/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pcgbook/06_rules_and_mechanics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pcgbook/07_planning_with_applications_to_quests_and_story/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pcgbook/08_answer_set_programming_asp/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pcgbook/09_representation_-for_search_based_methods/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pcgbook/10_the_experience_driven_perspective/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pcgbook/11_mixed_initiative_content_creation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pcgbook/12_evaluating_content_generators-desktop-gom3d4l/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pcgbook/12_evaluating_content_generators/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pcgbook/13_misc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pcgwiki/design_of_level_content/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pcgwiki/dynamic_systems/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pcgwiki/dynamic_world_generation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pcgwiki/instancing_of_in_game_entities/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pcgwiki/procedural_puzzles_and_plot_generation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pcgwiki/runtime_random_level_generation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pcgwiki/user_mediated_content/</loc>
+  </url><url>
+    <loc>http://localhost:1313/spatial-stories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/algorithms_concepts/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/games-featuring-pcg/</loc>
+  </url><url>
     <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pcgbook/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pcgwiki/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

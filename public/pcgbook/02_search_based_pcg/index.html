@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>My New Hugo Site</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="online link: chapter02.pdf
+
+Search-based Procedural content generation is the use of evolutionary computation and similar methods to generate game content.
+Represent content so it will become searchable =&gt; create evaluation function.
+Definitions
+A Search-based approach to solving a content generation problem consists of following core components:
+
+
+A search algorithm is the &ldquo;engine&rdquo; of a Search-based method. Often a relatively simple evolutionary algorithm works well enough. Sometimes more sophisticated (e.g taking constrains into account) or specialized algorithms are better">
+    <meta name="generator" content="Hugo 0.145.0">
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+
+    
+
+
+    
+      
+
+    
+
+    
+
+    
+      <link rel="canonical" href="http://localhost:1313/pcgbook/02_search_based_pcg/">
+    
+
+    <meta property="og:url" content="http://localhost:1313/pcgbook/02_search_based_pcg/">
+  <meta property="og:site_name" content="My New Hugo Site">
+  <meta property="og:title" content="My New Hugo Site">
+  <meta property="og:description" content="online link: chapter02.pdf
+Search-based Procedural content generation is the use of evolutionary computation and similar methods to generate game content.
+Represent content so it will become searchable =&gt; create evaluation function.
+Definitions A Search-based approach to solving a content generation problem consists of following core components:
+A search algorithm is the “engine” of a Search-based method. Often a relatively simple evolutionary algorithm works well enough. Sometimes more sophisticated (e.g taking constrains into account) or specialized algorithms are better">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="pcgbook">
+
+  <meta itemprop="name" content="My New Hugo Site">
+  <meta itemprop="description" content="online link: chapter02.pdf
+Search-based Procedural content generation is the use of evolutionary computation and similar methods to generate game content.
+Represent content so it will become searchable =&gt; create evaluation function.
+Definitions A Search-based approach to solving a content generation problem consists of following core components:
+A search algorithm is the “engine” of a Search-based method. Often a relatively simple evolutionary algorithm works well enough. Sometimes more sophisticated (e.g taking constrains into account) or specialized algorithms are better">
+  <meta itemprop="wordCount" content="864">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="My New Hugo Site">
+  <meta name="twitter:description" content="online link: chapter02.pdf
+Search-based Procedural content generation is the use of evolutionary computation and similar methods to generate game content.
+Represent content so it will become searchable =&gt; create evaluation function.
+Definitions A Search-based approach to solving a content generation problem consists of following core components:
+A search algorithm is the “engine” of a Search-based method. Often a relatively simple evolutionary algorithm works well enough. Sometimes more sophisticated (e.g taking constrains into account) or specialized algorithms are better">
+
+	
+  </head><body class="ma0 avenir bg-near-white development">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l center items-center justify-between">
+    <a href="/" class="f3 fw2 hover-white white-90 dib no-underline">
+      
+        My New Hugo Site
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+      <div class="ananke-socials"></div>
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  
+  <article class="flex-l mw8 center ph3 flex-wrap justify-between">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked ttu">
+          
+        PCGBooks
+      </aside><div id="sharing" class="mt3 ananke-socials"></div>
+<h1 class="f1 athelas mt3 mb1"></h1>
+      
+      
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>online link: <a href="https://www.pcgbook.com/chapter02.pdf">chapter02.pdf</a></p>
+<hr>
+<p>Search-based Procedural content generation is the use of evolutionary computation and similar methods to generate game content.</p>
+<p>Represent content so it will become searchable =&gt; create evaluation function.</p>
+<h1 id="definitions">Definitions</h1>
+<p>A Search-based approach to solving a content generation problem consists of following core components:</p>
+<ul>
+<li>
+<p><strong>A search algorithm</strong> is the &ldquo;engine&rdquo; of a Search-based method. Often a relatively simple evolutionary algorithm works well enough. Sometimes more sophisticated (e.g taking constrains into account) or specialized algorithms are better</p>
+</li>
+<li>
+<p><strong>A content representation</strong> of artefacts you want to create, e.g levels, quests or winged kittens. The content representation defines and limits what content can be generated and determines whether effective search is possible.</p>
+</li>
+<li>
+<p><strong>One or more evaluation Functions</strong>. An evaluation function is a function from an artefacts to a number indicating the quality of the artefact. E.g the playability of a level, the intricacy of a quest or the aesthetic appeal of a winged kitten. (the hardest part)</p>
+</li>
+</ul>
+<h1 id="evolutionary-search-algorithms">Evolutionary search algorithms</h1>
+<ul>
+<li>
+<p>inspired by darwinian evolution</p>
+</li>
+<li>
+<p>population of individuals (condidate solutions) are evaluated in each generation</p>
+</li>
+<li>
+<p>the fittest(highest evaulated) individual gets the chance to reproduce (lowest ones are removed)</p>
+</li>
+<li>
+<p>A generation can be divided into selection and reproduction phase.</p>
+</li>
+<li>
+<p>Reproduction with recombination or crossover of characteristics Or small random changes (mutation)</p>
+</li>
+<li>
+<p>Genetic algorithms rely more on recombination and less on mutation.</p>
+</li>
+<li>
+<p>Using multiple evaluation functions, since it is hard to describe every quality inside one number</p>
+</li>
+<li>
+<p><strong>Single objective evolutionary algorithm</strong>: evaluation algorithm could beccombines as a weighted usm.</p>
+</li>
+<li>
+<p><strong>Multi objective evolutionary algorithm</strong>, optimized for several objectives at the same time.</p>
+</li>
+</ul>
+<p>Include evolution strategy example #TODO</p>
+<h2 id="other-types-of-search-algorithms">Other types of search algorithms</h2>
+<ul>
+<li>
+<p>exhaustive search algorithm, brute force through all possible configutations.</p>
+</li>
+<li>
+<p>random serach</p>
+</li>
+<li>
+<p>solver-based approaches, see [[08_Answer_Set_programming_(ASP)]]</p>
+</li>
+</ul>
+<h1 id="content-representation">Content representation</h1>
+<ul>
+<li>
+<p>The solutions in the generation space are usually encoded as genotypes. E.g instructions for creating a Game level</p>
+</li>
+<li>
+<p>Genotypes are later converted into phenotypes, the actual entities of the game. E.g actual game level</p>
+</li>
+</ul>
+<blockquote>
+<p>[!Example] Example representations of a level in Super Mario Bros</p>
+<ul>
+<li>Directly, as a level map (each genotype equals a &ldquo;block&rdquo; in phenotype )</li>
+<li>more indirectly, as a list of positions and properties of different entities</li>
+<li>even more indirectly, as a repository of different reusable patters and a list of how they are distributed across the level map</li>
+<li>Very indirectly, as a list of desirable properties such as number of gaps, enemies, coins, width of gaps</li>
+<li>Most indirectly, as a random number seed</li>
+</ul></blockquote>
+<p> - The larger the search space, the harder it is (in general) to find a certain solution!
+ - high locality, small change in genotype results in a small change to the phenotype and fitness value.
+ - idk what they talked about with expressive range etc.</p>
+<h1 id="evaluation-functions">Evaluation Functions</h1>
+<ul>
+<li>function which assigns a fitness/evaluation value to each candidate.</li>
+<li>no good evaluation function =&gt; &ldquo;no good content&rdquo;</li>
+<li>three distinctions of evaluation functions: <strong>direct</strong>, <strong>simulation-based</strong>, and <strong>interactive</strong></li>
+</ul>
+<h2 id="direct-evaluation-functions">Direct evaluation functions</h2>
+<ul>
+<li>mapping between generated content to a content quality value</li>
+<li>fast and relatively easy to implement but hard to devise</li>
+<li><strong>Theory-driven function</strong>
+<ul>
+<li>guided by intuition and/or qualitative theories of player experience.</li>
+</ul>
+</li>
+<li><strong>Data-driven function</strong>
+<ul>
+<li>based on quantitative measures of player experience.</li>
+<li>approximation of mapping through questionnaires or physiological measurements
+Examples missing #TODO</li>
+</ul>
+</li>
+</ul>
+<h2 id="simulation-based-evaluation-functions">Simulation-based evaluation functions</h2>
+<ul>
+<li>Use of AI agents to play and estimate the generated contents quality</li>
+<li><strong>static function</strong>
+<ul>
+<li>Assumption of maintaining agent behaviour during gamepla</li>
+</ul>
+</li>
+<li><strong>dynamic function</strong>
+<ul>
+<li>Agent that adapts during gameplay
+Examples missing #TODO</li>
+</ul>
+</li>
+</ul>
+<h2 id="interactive-evaluation-functions">Interactive evaluation functions</h2>
+<ul>
+<li>evaluation based on interaction with a human.</li>
+<li><strong>implicit</strong> and <strong>explicit</strong> collection of data</li>
+<li>explicit is more reliatble and accurate</li>
+<li>implicit is more noisy and based on assumptions.
+Examples missing #TODO</li>
+</ul>
+<h1 id="example-games">Example Games</h1>
+<h2 id="starcraft">StarCraft</h2>
+<p><strong>Representation</strong>:</p>
+<ul>
+<li>The maps are represented as vectors of real numbers</li>
+<li>Genotype-to phenotype process: intepreted directly or further processed</li>
+<li>results in a matrix which can be automatically converted into a Starcraft map
+<strong>Evaluation</strong>:</li>
+<li>Different evaluation functions mostly based on calculations of free space and shortest paths</li>
+<li>functions adress base placement, resource placement and paths between bases</li>
+<li>E.g. enough space to grow a base, equal access to nearby resources or choke points
+<strong>Algorithm</strong>:</li>
+<li>Uses SMS-EMOA (a state of the art multiobjective evolutionary algorithm)</li>
+<li>SMS-EMOA used to evolve combinations of two to three objectives.</li>
+<li>partial conflicts between several objectives were found</li>
+<li>=&gt; impossible to maximize all objectives</li>
+<li>but interesting and reasonably fair maps were found</li>
+</ul>
+<h2 id="racing-tracks">Racing tracks</h2>
+<p><strong>Representation</strong>:</p>
+<ul>
+<li>tracks are represented as vectors of real numbers</li>
+<li>interpreted as control points of splines
+<strong>Evaluation</strong>:</li>
+<li>track personalization based on modelling the playing style of that player.</li>
+<li>=&gt; teaching a neural network to play like that player</li>
+<li>candidate track is evaluatied in a simulation-based manner</li>
+<li>measurements of appropriate challenge and diversity for the player
+<strong>Algorithm</strong>:</li>
+<li>Used cascading elitism (based on μ +λ ES)</li>
+</ul>
+<h2 id="board-game-rules">Board game rules</h2>
+<p><strong>Representation</strong>:</p>
+<ul>
+<li>board layouts and rules are represented as strings
+<strong>Evaluation</strong>:</li>
+<li>using different values for a weighted sum</li>
+<li>E.g how long was the game, did it end in a draw, how many rules were used
+<strong>Algorithm</strong>:</li>
+<li>A relatively standard genetic algorithm was used.</li>
+</ul>
+<h2 id="galactic-arms-race">Galactic Arms Race</h2>
+<p><strong>Representation</strong>: many neural networds, which increases its complexity over generations
+<strong>Evaluation</strong>: fitness value assigned to each weapon, on the usage of the weapon. the more the weapon is played, the more probable the weapon will evolve.
+<strong>Algorithm</strong>: collective, distributed evolutionary algorithm</p>
+<h1 id="further-resources">Further resources</h1>
+<ul class="pa0">
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="http://localhost:1313/" >
+    &copy;  My New Hugo Site 2025 
+  </a>
+    <div><div class="ananke-socials"></div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>

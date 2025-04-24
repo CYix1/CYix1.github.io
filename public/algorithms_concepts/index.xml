@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Algorithms_Concepts on My New Hugo Site</title>
+    <link>http://localhost:1313/algorithms_concepts/</link>
+    <description>Recent content in Algorithms_Concepts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/algorithms_concepts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/algorithms_concepts/cellular-automata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/algorithms_concepts/cellular-automata/</guid>
+      <description>&lt;h1 id=&#34;how-it-works-concept&#34;&gt;How it works (Concept)&lt;/h1&gt;&#xA;&lt;h1 id=&#34;examples&#34;&gt;Examples&lt;/h1&gt;&#xA;&lt;h1 id=&#34;implementations&#34;&gt;Implementations?&lt;/h1&gt;&#xA;&lt;h1 id=&#34;further-resources&#34;&gt;Further Resources&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/algorithms_concepts/grammars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/algorithms_concepts/grammars/</guid>
+      <description>&lt;h1 id=&#34;how-it-works-concept&#34;&gt;How it works (Concept)&lt;/h1&gt;&#xA;&lt;p&gt;Having a Axiom and Production rules, generates different sentences from a Grammar&lt;/p&gt;&#xA;&lt;h1 id=&#34;examples&#34;&gt;Examples&lt;/h1&gt;&#xA;&lt;h1 id=&#34;implementations&#34;&gt;Implementations?&lt;/h1&gt;&#xA;&lt;h1 id=&#34;further-resources&#34;&gt;Further Resources&lt;/h1&gt;&#xA;&lt;p&gt;THEO&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/algorithms_concepts/marching-cubes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/algorithms_concepts/marching-cubes/</guid>
+      <description>&lt;h1 id=&#34;how-it-works-concept&#34;&gt;How it works (Concept)&lt;/h1&gt;&#xA;&lt;h1 id=&#34;examples&#34;&gt;Examples&lt;/h1&gt;&#xA;&lt;h1 id=&#34;implementations&#34;&gt;Implementations?&lt;/h1&gt;&#xA;&lt;h1 id=&#34;further-resources&#34;&gt;Further Resources&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/algorithms_concepts/model-synthesis_wfc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/algorithms_concepts/model-synthesis_wfc/</guid>
+      <description>&lt;h1 id=&#34;model-synthesis&#34;&gt;Model synthesis&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;technique for generating large complex 2D and 3D shapes&lt;/li&gt;&#xA;&lt;li&gt;inspired by texture synthesis&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;wave-function-collapse&#34;&gt;Wave Function Collapse&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;based on model synthesis&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Simplified&lt;/p&gt;&#xA;&lt;h1 id=&#34;how-it-works-concept&#34;&gt;How it works (Concept)&lt;/h1&gt;&#xA;&lt;h1 id=&#34;examples&#34;&gt;Examples&lt;/h1&gt;&#xA;&lt;h1 id=&#34;implementations&#34;&gt;Implementations?&lt;/h1&gt;&#xA;&lt;h1 id=&#34;further-resources&#34;&gt;Further Resources&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Complex&lt;/p&gt;&#xA;&lt;h1 id=&#34;how-it-works-concept-1&#34;&gt;How it works (Concept)&lt;/h1&gt;&#xA;&lt;h1 id=&#34;examples-1&#34;&gt;Examples&lt;/h1&gt;&#xA;&lt;h1 id=&#34;implementations-1&#34;&gt;Implementations?&lt;/h1&gt;&#xA;&lt;h1 id=&#34;further-resources-1&#34;&gt;Further Resources&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/algorithms_concepts/noise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/algorithms_concepts/noise/</guid>
+      <description>&lt;h1 id=&#34;how-it-works-concept&#34;&gt;How it works (Concept)&lt;/h1&gt;&#xA;&lt;p&gt;basically a Texture with pseudorandom values for each position.&#xA;Scaled to infinity&lt;/p&gt;&#xA;&lt;h1 id=&#34;examples&#34;&gt;Examples&lt;/h1&gt;&#xA;&lt;h1 id=&#34;implementations&#34;&gt;Implementations?&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Auburn/FastNoiseLite&#34;&gt;GitHub - Auburn/FastNoiseLite: Fast Portable Noise Library - C# C++ C Java HLSL GLSL JavaScript Rust Go&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;further-resources&#34;&gt;Further Resources&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/doi/10.1145/325165.325247&#34;&gt;An image synthesizer | ACM SIGGRAPH Computer Graphics&lt;/a&gt; &amp;lt;- Paper on Perlin noise, the original one&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/algorithms_concepts/random-placement-methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/algorithms_concepts/random-placement-methods/</guid>
+      <description>&lt;p&gt;random&#xA;voronoi?&#xA;poisson verteilung&lt;/p&gt;&#xA;&lt;h1 id=&#34;how-it-works-concept&#34;&gt;How it works (Concept)&lt;/h1&gt;&#xA;&lt;h1 id=&#34;examples&#34;&gt;Examples&lt;/h1&gt;&#xA;&lt;h1 id=&#34;implementations&#34;&gt;Implementations?&lt;/h1&gt;&#xA;&lt;h1 id=&#34;further-resources&#34;&gt;Further Resources&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/algorithms_concepts/subdivision-stuff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/algorithms_concepts/subdivision-stuff/</guid>
+      <description>&lt;p&gt;bsp tree etc.?&lt;/p&gt;&#xA;&lt;h1 id=&#34;how-it-works-concept&#34;&gt;How it works (Concept)&lt;/h1&gt;&#xA;&lt;h1 id=&#34;examples&#34;&gt;Examples&lt;/h1&gt;&#xA;&lt;h1 id=&#34;implementations&#34;&gt;Implementations?&lt;/h1&gt;&#xA;&lt;h1 id=&#34;further-resources&#34;&gt;Further Resources&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/algorithms_concepts/template-for-algorithms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/algorithms_concepts/template-for-algorithms/</guid>
+      <description>&lt;h1 id=&#34;how-it-works-concept&#34;&gt;How it works (Concept)&lt;/h1&gt;&#xA;&lt;h1 id=&#34;examples&#34;&gt;Examples&lt;/h1&gt;&#xA;&lt;h1 id=&#34;implementations&#34;&gt;Implementations?&lt;/h1&gt;&#xA;&lt;h1 id=&#34;further-resources&#34;&gt;Further Resources&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>

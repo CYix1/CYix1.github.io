@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PCGBooks on My New Hugo Site</title>
+    <link>http://localhost:1313/pcgbook/</link>
+    <description>Recent content in PCGBooks on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/pcgbook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/01_procedural_content_generation_pcg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/01_procedural_content_generation_pcg/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter01.pdf&#34;&gt;chapter01.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;definition&#34;&gt;Definition&lt;/h1&gt;&#xA;&lt;p&gt;note: mostly [pcgbook]&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Procedual Content Generation (PCG)&lt;/strong&gt;:&#xA;PCG is the algorithmic creation of game content with limited or indirect user input. In other words, PCG refers to computer software&#xA;that can create game content on its own, or together with one or many human players&#xA;or designers.  [pcgbook]&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Content&lt;/strong&gt;:&#xA;includes &amp;hellip;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;levels&lt;/li&gt;&#xA;&lt;li&gt;maps&lt;/li&gt;&#xA;&lt;li&gt;game rules&lt;/li&gt;&#xA;&lt;li&gt;textures&lt;/li&gt;&#xA;&lt;li&gt;stories&lt;/li&gt;&#xA;&lt;li&gt;items&lt;/li&gt;&#xA;&lt;li&gt;quests&lt;/li&gt;&#xA;&lt;li&gt;music&lt;/li&gt;&#xA;&lt;li&gt;weapons&lt;/li&gt;&#xA;&lt;li&gt;vehicles&lt;/li&gt;&#xA;&lt;li&gt;characters&lt;/li&gt;&#xA;&lt;li&gt;etc.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;NPC AI does not count towards content according to [pcgbook]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/02_search_based_pcg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/02_search_based_pcg/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter02.pdf&#34;&gt;chapter02.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Search-based Procedural content generation is the use of evolutionary computation and similar methods to generate game content.&lt;/p&gt;&#xA;&lt;p&gt;Represent content so it will become searchable =&amp;gt; create evaluation function.&lt;/p&gt;&#xA;&lt;h1 id=&#34;definitions&#34;&gt;Definitions&lt;/h1&gt;&#xA;&lt;p&gt;A Search-based approach to solving a content generation problem consists of following core components:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;A search algorithm&lt;/strong&gt; is the &amp;ldquo;engine&amp;rdquo; of a Search-based method. Often a relatively simple evolutionary algorithm works well enough. Sometimes more sophisticated (e.g taking constrains into account) or specialized algorithms are better&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/03_constructive_methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/03_constructive_methods/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter03.pdf&#34;&gt;chapter03.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;commonly used for dungeon, and level generation in rogue like and platformers&lt;/li&gt;&#xA;&lt;li&gt;predictable, short time&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Binary space partitioning&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;recursively subdivide an area into even smaller units&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Agent-based&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;ldquo;digging out&amp;rdquo; a dungeon by traversing it in some way&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Grammar-based methods&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;expanding an axiom using production rules&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cellular automata&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Stochastic, iterative method&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/04_fractal_and_noise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/04_fractal_and_noise/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter04.pdf&#34;&gt;chapter04.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;mostly used for terrain/landscapes&lt;/li&gt;&#xA;&lt;li&gt;fast and effective stochastic methods&lt;/li&gt;&#xA;&lt;li&gt;heightmap&lt;/li&gt;&#xA;&lt;li&gt;Fractal methods&#xA;&lt;ul&gt;&#xA;&lt;li&gt;diamond-square&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;perlin noise&lt;/li&gt;&#xA;&lt;li&gt;agent-based methods&lt;/li&gt;&#xA;&lt;li&gt;search-based methods&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/05_grammars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/05_grammars/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter05.pdf&#34;&gt;chapter05.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Theo PTSD&lt;/li&gt;&#xA;&lt;li&gt;L-Systems&lt;/li&gt;&#xA;&lt;li&gt;Graph grammars&#xA;&lt;ul&gt;&#xA;&lt;li&gt;space grammars?&lt;/li&gt;&#xA;&lt;li&gt;generate missions/quests and levels&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/06_rules_and_mechanics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/06_rules_and_mechanics/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter06.pdf&#34;&gt;chapter06.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;encode/generate game rules&lt;/li&gt;&#xA;&lt;li&gt;and occasionally game entities that are strongly tied to rules&lt;/li&gt;&#xA;&lt;li&gt;Description languages&#xA;&lt;ul&gt;&#xA;&lt;li&gt;characteristics:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;expressivity of the encoding (the range of games it can represent)&lt;/li&gt;&#xA;&lt;li&gt;the density of allowable or feasible game rules&lt;/li&gt;&#xA;&lt;li&gt;compactness and human readability&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;key problem: evaluating the quality of the rules&lt;/li&gt;&#xA;&lt;li&gt;Constraint satisfaction approaches can also be used&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/07_planning_with_applications_to_quests_and_story/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/07_planning_with_applications_to_quests_and_story/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter07.pdf&#34;&gt;chapter07.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;generating stories&lt;/li&gt;&#xA;&lt;li&gt;Planning algorithms&#xA;&lt;ul&gt;&#xA;&lt;li&gt;find a path from an initial state to a goal state&lt;/li&gt;&#xA;&lt;li&gt;path can be interpreted as story&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;search in plan and state space&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Plan space&lt;/strong&gt;: Search of possible plans&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;state space&lt;/strong&gt;: build up through adding new parts sequentially&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Domain model&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;collection of facts about the world and possible actions&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;STRIPS&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ADL&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/08_answer_set_programming_asp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/08_answer_set_programming_asp/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter08.pdf&#34;&gt;chapter08.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;constrains and logical relations&lt;/li&gt;&#xA;&lt;li&gt;All world configuration =&amp;gt; answer set&lt;/li&gt;&#xA;&lt;li&gt;AnsProlog/Prolog are declarative languages&lt;/li&gt;&#xA;&lt;li&gt;Each answer&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/09_representation_-for_search_based_methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/09_representation_-for_search_based_methods/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter09.pdf&#34;&gt;chapter09.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;There are many representations for PCG&lt;/li&gt;&#xA;&lt;li&gt;representation of not only the contetn but also the generation algorithm itself&lt;/li&gt;&#xA;&lt;li&gt;representations can be tailored to extend the search-based paradigm&lt;/li&gt;&#xA;&lt;li&gt;e.g providing required content, a multi-step genotype-to-phenotype mapping&lt;/li&gt;&#xA;&lt;li&gt;compositional pattern-producing networks (CPPNs)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;neural network that maps position in some space to some property of pixels or particles.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/10_the_experience_driven_perspective/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/10_the_experience_driven_perspective/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter10.pdf&#34;&gt;chapter10.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;create algorithms to create content tailored to that player.&lt;/li&gt;&#xA;&lt;li&gt;player modelling&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Creating computational models of a player&amp;rsquo;s behaviour, preferences, or skills&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;the PCG should be fast but not necessarily noticeable.&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;h2 id=&#34;generation-based-on-player-models&#34;&gt;generation based on player models&lt;/h2&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/11_mixed_initiative_content_creation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/11_mixed_initiative_content_creation/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter11.pdf&#34;&gt;chapter11.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;co authoring between algorithm and human&lt;/li&gt;&#xA;&lt;li&gt;example if mixed-initiative PCG systems:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ranagra&lt;/li&gt;&#xA;&lt;li&gt;Sentient Sketchbook&lt;/li&gt;&#xA;&lt;li&gt;Ropossum&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;computer-aided design (CAD)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;directs creative process&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;interactive evolution&#xA;&lt;ul&gt;&#xA;&lt;li&gt;computer proposes new artifacts&lt;/li&gt;&#xA;&lt;li&gt;user solely provides feedback&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/12_evaluating_content_generators-desktop-gom3d4l/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/12_evaluating_content_generators-desktop-gom3d4l/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter12.pdf&#34;&gt;chapter12.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Evaluating your content generator is a very important task, but difficult to do well.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;visualizing the expressive range of generators (top-down)&lt;/li&gt;&#xA;&lt;li&gt;using questionnaires to understand the impact of your generator (bottom up)&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/12_evaluating_content_generators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/12_evaluating_content_generators/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter12.pdf&#34;&gt;chapter12.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Evaluating your content generator is a very important task, but difficult to do well.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/13_misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/13_misc/</guid>
+      <description>&lt;h1 id=&#34;constraint-based-systems&#34;&gt;Constraint Based Systems&lt;/h1&gt;&#xA;&lt;h1 id=&#34;tiles&#34;&gt;Tiles&lt;/h1&gt;&#xA;&lt;h1 id=&#34;distribution&#34;&gt;Distribution&lt;/h1&gt;&#xA;&lt;h1 id=&#34;interpretive&#34;&gt;Interpretive&lt;/h1&gt;&#xA;&lt;h1 id=&#34;simulations&#34;&gt;Simulations&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>

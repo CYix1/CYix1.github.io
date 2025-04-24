@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PCGWikis on My New Hugo Site</title>
+    <link>http://localhost:1313/pcgwiki/</link>
+    <description>Recent content in PCGWikis on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/pcgwiki/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgwiki/design_of_level_content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgwiki/design_of_level_content/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://pcg.wikidot.com/pcg-algorithm:design-of-level-content&#34;&gt;http://pcg.wikidot.com/pcg-algorithm:design-of-level-content&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;use of PCG techniques at the design stage&lt;/li&gt;&#xA;&lt;li&gt;build game assets (levels, enemies, weapons)&lt;/li&gt;&#xA;&lt;li&gt;helps design process&#xA;&lt;ul&gt;&#xA;&lt;li&gt;rapidly populate the environment, altered by hand&lt;/li&gt;&#xA;&lt;li&gt;rapidly iterating throguh a number of PCG generated levels&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;popular for sandbox games&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;classic example: heightmaps using PCG techniques such as fractals/noise with hand-placed content&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgwiki/dynamic_systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgwiki/dynamic_systems/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://pcg.wikidot.com/pcg-algorithm:dynamic-systems&#34;&gt;http://pcg.wikidot.com/pcg-algorithm:dynamic-systems&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;includes&#xA;&lt;ul&gt;&#xA;&lt;li&gt;weather&lt;/li&gt;&#xA;&lt;li&gt;group/crownd behaviour&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;overlapping between AI and PCG&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgwiki/dynamic_world_generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgwiki/dynamic_world_generation/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://pcg.wikidot.com/pcg-algorithm:dynamic-world-generation&#34;&gt;http://pcg.wikidot.com/pcg-algorithm:dynamic-world-generation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;one of the first examples Elite&lt;/li&gt;&#xA;&lt;li&gt;random seed or user input (needs to be constant)&lt;/li&gt;&#xA;&lt;li&gt;growing the playing field iteratively using pseudorandom number generator techniques&lt;/li&gt;&#xA;&lt;li&gt;usually top-down subdivision e.g fractal and LOD implementations..&#xA;Issues:&lt;/li&gt;&#xA;&lt;li&gt;changing algorithm =&amp;gt; changes world&lt;/li&gt;&#xA;&lt;li&gt;prevents including content which has bottom up dependency&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgwiki/instancing_of_in_game_entities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgwiki/instancing_of_in_game_entities/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://pcg.wikidot.com/pcg-algorithm:instancing-of-in-game-entities&#34;&gt;http://pcg.wikidot.com/pcg-algorithm:instancing-of-in-game-entities&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;dynamically vary the parameters of in-game entities&lt;/li&gt;&#xA;&lt;li&gt;visible geometry, or in-game properties of an weapon or pieve of equipment&lt;/li&gt;&#xA;&lt;li&gt;e.g using pseudorandom number generation&lt;/li&gt;&#xA;&lt;li&gt;compressing the total amount of information required for each unique entity&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgwiki/procedural_puzzles_and_plot_generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgwiki/procedural_puzzles_and_plot_generation/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://pcg.wikidot.com/pcg-algorithm:procedural-puzzles-and-plot-generation&#34;&gt;http://pcg.wikidot.com/pcg-algorithm:procedural-puzzles-and-plot-generation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;door codes and other individual puzzle elements&lt;/li&gt;&#xA;&lt;li&gt;dependency graphs&#xA;&lt;ul&gt;&#xA;&lt;li&gt;changing its shape or procedurally place content required for puzzle&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;can be combined with Natural language processing&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgwiki/runtime_random_level_generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgwiki/runtime_random_level_generation/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://pcg.wikidot.com/pcg-algorithm:runtime-random-level-generation&#34;&gt;runtime-random-level-generation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;originated from rogue (random placed rooms and corridors)&lt;/li&gt;&#xA;&lt;li&gt;provides infinite game space, constrained by generation rules&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;connectivity types:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;set of stairs, doors, elevators&lt;/li&gt;&#xA;&lt;li&gt;victory conditions&lt;/li&gt;&#xA;&lt;li&gt;no explicit connection between levels, but accessable through hub/menu&lt;/li&gt;&#xA;&lt;li&gt;connected seamlessly&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Connectivity within a level:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;all parts needs to be connected&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;or a game mechanic supports removing walls etc.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;distinction between persistent and non-persistent levels&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;useful for storing huge worlds in a limited amount of storage&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgwiki/user_mediated_content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgwiki/user_mediated_content/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://pcg.wikidot.com/pcg-algorithm:user-mediated-content&#34;&gt;http://pcg.wikidot.com/pcg-algorithm:user-mediated-content&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;lowers the barrier for complex procedures such as level design or 3d modelling&lt;/li&gt;&#xA;&lt;li&gt;tune the content by altering PCG parameters, instead of understanding the underlying algorithm&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

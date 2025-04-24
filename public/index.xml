@@ -14,5 +14,229 @@
       <guid>http://localhost:1313/00_readme/</guid>
       <description>&lt;p&gt;These Markdown files are about the topic of Procedural content generation and should extend the knowledge gamespace graph by Daniel Dyrda.&#xA;!!!The structure is WIP!!!&lt;/p&gt;&#xA;&lt;h1 id=&#34;procedural-content-generation-in-games-book&#34;&gt;&lt;a href=&#34;https://www.pcgbook.com/&#34;&gt;Procedural Content Generation in Games book&lt;/a&gt;:&lt;/h1&gt;&#xA;&lt;p&gt;These chapters are mostly just bullet points about the most important and the examples given from the book.&#xA;If you don&amp;rsquo;t understand the content here, just refer to the online version ^^&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[[01_Procedural_Content_Generation_(PCG)]]&lt;/li&gt;&#xA;&lt;li&gt;[[02_Search_based_PCG]]&lt;/li&gt;&#xA;&lt;li&gt;[[03_Constructive_Methods]]&lt;/li&gt;&#xA;&lt;li&gt;[[04_Fractal_and_noise]]&lt;/li&gt;&#xA;&lt;li&gt;[[05_Grammars]]&lt;/li&gt;&#xA;&lt;li&gt;[[06_Rules_and_mechanics]]&lt;/li&gt;&#xA;&lt;li&gt;[[07_Planning_with_applications_to_quests_and_story]]&lt;/li&gt;&#xA;&lt;li&gt;[[08_Answer_Set_programming_(ASP)]]&lt;/li&gt;&#xA;&lt;li&gt;[[09_Representation_ for_search_based_methods]]&lt;/li&gt;&#xA;&lt;li&gt;[[10_The_experience_driven_perspective]]&lt;/li&gt;&#xA;&lt;li&gt;[[11_Mixed_initiative_content_creation]]&lt;/li&gt;&#xA;&lt;li&gt;[[12_Evaluating_content_generators]]&#xA;-&amp;gt; chapter of interviews with gamedesigner &lt;a href=&#34;https://www.pcgbook.com/interviews.pdf&#34;&gt;interviews.pdf&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Another categorization by &lt;a href=&#34;http://pcg.wikidot.com/what-pcg-is&#34;&gt;PCG wikidot&lt;/a&gt; includes following types:&lt;/p&gt;</description>
     </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/algorithms_concepts/cellular-automata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/algorithms_concepts/cellular-automata/</guid>
+      <description>&lt;h1 id=&#34;how-it-works-concept&#34;&gt;How it works (Concept)&lt;/h1&gt;&#xA;&lt;h1 id=&#34;examples&#34;&gt;Examples&lt;/h1&gt;&#xA;&lt;h1 id=&#34;implementations&#34;&gt;Implementations?&lt;/h1&gt;&#xA;&lt;h1 id=&#34;further-resources&#34;&gt;Further Resources&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/algorithms_concepts/grammars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/algorithms_concepts/grammars/</guid>
+      <description>&lt;h1 id=&#34;how-it-works-concept&#34;&gt;How it works (Concept)&lt;/h1&gt;&#xA;&lt;p&gt;Having a Axiom and Production rules, generates different sentences from a Grammar&lt;/p&gt;&#xA;&lt;h1 id=&#34;examples&#34;&gt;Examples&lt;/h1&gt;&#xA;&lt;h1 id=&#34;implementations&#34;&gt;Implementations?&lt;/h1&gt;&#xA;&lt;h1 id=&#34;further-resources&#34;&gt;Further Resources&lt;/h1&gt;&#xA;&lt;p&gt;THEO&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/algorithms_concepts/marching-cubes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/algorithms_concepts/marching-cubes/</guid>
+      <description>&lt;h1 id=&#34;how-it-works-concept&#34;&gt;How it works (Concept)&lt;/h1&gt;&#xA;&lt;h1 id=&#34;examples&#34;&gt;Examples&lt;/h1&gt;&#xA;&lt;h1 id=&#34;implementations&#34;&gt;Implementations?&lt;/h1&gt;&#xA;&lt;h1 id=&#34;further-resources&#34;&gt;Further Resources&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/algorithms_concepts/model-synthesis_wfc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/algorithms_concepts/model-synthesis_wfc/</guid>
+      <description>&lt;h1 id=&#34;model-synthesis&#34;&gt;Model synthesis&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;technique for generating large complex 2D and 3D shapes&lt;/li&gt;&#xA;&lt;li&gt;inspired by texture synthesis&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;wave-function-collapse&#34;&gt;Wave Function Collapse&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;based on model synthesis&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Simplified&lt;/p&gt;&#xA;&lt;h1 id=&#34;how-it-works-concept&#34;&gt;How it works (Concept)&lt;/h1&gt;&#xA;&lt;h1 id=&#34;examples&#34;&gt;Examples&lt;/h1&gt;&#xA;&lt;h1 id=&#34;implementations&#34;&gt;Implementations?&lt;/h1&gt;&#xA;&lt;h1 id=&#34;further-resources&#34;&gt;Further Resources&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Complex&lt;/p&gt;&#xA;&lt;h1 id=&#34;how-it-works-concept-1&#34;&gt;How it works (Concept)&lt;/h1&gt;&#xA;&lt;h1 id=&#34;examples-1&#34;&gt;Examples&lt;/h1&gt;&#xA;&lt;h1 id=&#34;implementations-1&#34;&gt;Implementations?&lt;/h1&gt;&#xA;&lt;h1 id=&#34;further-resources-1&#34;&gt;Further Resources&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/algorithms_concepts/noise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/algorithms_concepts/noise/</guid>
+      <description>&lt;h1 id=&#34;how-it-works-concept&#34;&gt;How it works (Concept)&lt;/h1&gt;&#xA;&lt;p&gt;basically a Texture with pseudorandom values for each position.&#xA;Scaled to infinity&lt;/p&gt;&#xA;&lt;h1 id=&#34;examples&#34;&gt;Examples&lt;/h1&gt;&#xA;&lt;h1 id=&#34;implementations&#34;&gt;Implementations?&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Auburn/FastNoiseLite&#34;&gt;GitHub - Auburn/FastNoiseLite: Fast Portable Noise Library - C# C++ C Java HLSL GLSL JavaScript Rust Go&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;further-resources&#34;&gt;Further Resources&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/doi/10.1145/325165.325247&#34;&gt;An image synthesizer | ACM SIGGRAPH Computer Graphics&lt;/a&gt; &amp;lt;- Paper on Perlin noise, the original one&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/algorithms_concepts/random-placement-methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/algorithms_concepts/random-placement-methods/</guid>
+      <description>&lt;p&gt;random&#xA;voronoi?&#xA;poisson verteilung&lt;/p&gt;&#xA;&lt;h1 id=&#34;how-it-works-concept&#34;&gt;How it works (Concept)&lt;/h1&gt;&#xA;&lt;h1 id=&#34;examples&#34;&gt;Examples&lt;/h1&gt;&#xA;&lt;h1 id=&#34;implementations&#34;&gt;Implementations?&lt;/h1&gt;&#xA;&lt;h1 id=&#34;further-resources&#34;&gt;Further Resources&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/algorithms_concepts/subdivision-stuff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/algorithms_concepts/subdivision-stuff/</guid>
+      <description>&lt;p&gt;bsp tree etc.?&lt;/p&gt;&#xA;&lt;h1 id=&#34;how-it-works-concept&#34;&gt;How it works (Concept)&lt;/h1&gt;&#xA;&lt;h1 id=&#34;examples&#34;&gt;Examples&lt;/h1&gt;&#xA;&lt;h1 id=&#34;implementations&#34;&gt;Implementations?&lt;/h1&gt;&#xA;&lt;h1 id=&#34;further-resources&#34;&gt;Further Resources&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/algorithms_concepts/template-for-algorithms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/algorithms_concepts/template-for-algorithms/</guid>
+      <description>&lt;h1 id=&#34;how-it-works-concept&#34;&gt;How it works (Concept)&lt;/h1&gt;&#xA;&lt;h1 id=&#34;examples&#34;&gt;Examples&lt;/h1&gt;&#xA;&lt;h1 id=&#34;implementations&#34;&gt;Implementations?&lt;/h1&gt;&#xA;&lt;h1 id=&#34;further-resources&#34;&gt;Further Resources&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/further-resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/further-resources/</guid>
+      <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Name/Link&lt;/th&gt;&#xA;          &lt;th&gt;Description&lt;/th&gt;&#xA;          &lt;th&gt;Tags&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=B11RlHZsmGE&#34;&gt;Making Things Up: The Power and Peril of PCG&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;GDC talk, great overview&lt;/td&gt;&#xA;          &lt;td&gt;#Video #resource&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.tumblr.com/galaxykate0/139774965871/so-you-want-to-build-a-generator&#34;&gt;So you want to build a generator&amp;hellip; – @galaxykate0 auf Tumblr&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;A blogpost about PCG&lt;/td&gt;&#xA;          &lt;td&gt;#Blog #resource&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/WumyfLEa6bU&#34;&gt;Practical Procedural Generation for Everyone&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;GDC talk, great overview&lt;/td&gt;&#xA;          &lt;td&gt;#Video #resource&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.pcgbook.com/&#34;&gt;Procedural Content Generation in Games book&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Book about PCG, more academic!&lt;/td&gt;&#xA;          &lt;td&gt;#book #resource&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;http://pcg.wikidot.com/&#34;&gt;Procedural Content Generation Wiki - Procedural Content Generation Wiki&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;A Wiki about different topics of PCG&lt;/td&gt;&#xA;          &lt;td&gt;#resource&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://procgen.space/resources&#34;&gt;ProcGen Space&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;A resource collection about PCG&lt;/td&gt;&#xA;          &lt;td&gt;#resource&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.procjam.com/&#34;&gt;PROCJAM - Make Something That Makes Something&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;A jam about procgen&lt;/td&gt;&#xA;          &lt;td&gt;#resource?&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h1 id=&#34;to-sort&#34;&gt;To Sort&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/mxgmn/WaveFunctionCollapse&#34;&gt;GitHub - mxgmn/WaveFunctionCollapse: Bitmap &amp;amp; tilemap generation from a single example with the help of ideas from quantum mechanics&lt;/a&gt;&#xA;&lt;a href=&#34;https://paulmerrell.org/model-synthesis/&#34;&gt;Model Synthesis - Paul Merrell&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/games-featuring-pcg/games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/games-featuring-pcg/games/</guid>
+      <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Name&lt;/th&gt;&#xA;          &lt;th&gt;Genre&lt;/th&gt;&#xA;          &lt;th&gt;Usage of PCG&lt;/th&gt;&#xA;          &lt;th&gt;Description&lt;/th&gt;&#xA;          &lt;th&gt;Link&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Minecraft&lt;/td&gt;&#xA;          &lt;td&gt;sandbox open world&lt;/td&gt;&#xA;          &lt;td&gt;World generation&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Dead Cells&lt;/td&gt;&#xA;          &lt;td&gt;roguelike&lt;/td&gt;&#xA;          &lt;td&gt;Level generation , random spawn of enemies? items&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Hades&lt;/td&gt;&#xA;          &lt;td&gt;roguelike&lt;/td&gt;&#xA;          &lt;td&gt;random levels from presets&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Dwarf Fortress&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;fantasy world and story generator&lt;/td&gt;&#xA;          &lt;td&gt;fantasy world and story generator&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Borderlands&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;procedural weapons&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Spelunky&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;procedural levels&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Left 4 Dead&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;procedurally generated plot or narrative features&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;No Man&amp;rsquo;s Sky&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;everything, especially world generation&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Far Cry 2&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Procedurally generated plot or narrative features&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Rogue&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Elite&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;procedurally generated world&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Spore&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;monster, civilizations, planets, spaceships, music&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Stardew valley&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Caves/loot&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Terraria&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;2D World&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;The Binding of Isaac&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Level structure, random monster/loot&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;more:&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://en.m.wikipedia.org/wiki/List_of_games_using_procedural_generation&#34;&gt;https://en.m.wikipedia.org/wiki/List_of_games_using_procedural_generation&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/01_procedural_content_generation_pcg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/01_procedural_content_generation_pcg/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter01.pdf&#34;&gt;chapter01.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;definition&#34;&gt;Definition&lt;/h1&gt;&#xA;&lt;p&gt;note: mostly [pcgbook]&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Procedual Content Generation (PCG)&lt;/strong&gt;:&#xA;PCG is the algorithmic creation of game content with limited or indirect user input. In other words, PCG refers to computer software&#xA;that can create game content on its own, or together with one or many human players&#xA;or designers.  [pcgbook]&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Content&lt;/strong&gt;:&#xA;includes &amp;hellip;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;levels&lt;/li&gt;&#xA;&lt;li&gt;maps&lt;/li&gt;&#xA;&lt;li&gt;game rules&lt;/li&gt;&#xA;&lt;li&gt;textures&lt;/li&gt;&#xA;&lt;li&gt;stories&lt;/li&gt;&#xA;&lt;li&gt;items&lt;/li&gt;&#xA;&lt;li&gt;quests&lt;/li&gt;&#xA;&lt;li&gt;music&lt;/li&gt;&#xA;&lt;li&gt;weapons&lt;/li&gt;&#xA;&lt;li&gt;vehicles&lt;/li&gt;&#xA;&lt;li&gt;characters&lt;/li&gt;&#xA;&lt;li&gt;etc.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;NPC AI does not count towards content according to [pcgbook]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/02_search_based_pcg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/02_search_based_pcg/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter02.pdf&#34;&gt;chapter02.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Search-based Procedural content generation is the use of evolutionary computation and similar methods to generate game content.&lt;/p&gt;&#xA;&lt;p&gt;Represent content so it will become searchable =&amp;gt; create evaluation function.&lt;/p&gt;&#xA;&lt;h1 id=&#34;definitions&#34;&gt;Definitions&lt;/h1&gt;&#xA;&lt;p&gt;A Search-based approach to solving a content generation problem consists of following core components:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;A search algorithm&lt;/strong&gt; is the &amp;ldquo;engine&amp;rdquo; of a Search-based method. Often a relatively simple evolutionary algorithm works well enough. Sometimes more sophisticated (e.g taking constrains into account) or specialized algorithms are better&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/03_constructive_methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/03_constructive_methods/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter03.pdf&#34;&gt;chapter03.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;commonly used for dungeon, and level generation in rogue like and platformers&lt;/li&gt;&#xA;&lt;li&gt;predictable, short time&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Binary space partitioning&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;recursively subdivide an area into even smaller units&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Agent-based&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;ldquo;digging out&amp;rdquo; a dungeon by traversing it in some way&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Grammar-based methods&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;expanding an axiom using production rules&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cellular automata&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Stochastic, iterative method&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/04_fractal_and_noise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/04_fractal_and_noise/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter04.pdf&#34;&gt;chapter04.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;mostly used for terrain/landscapes&lt;/li&gt;&#xA;&lt;li&gt;fast and effective stochastic methods&lt;/li&gt;&#xA;&lt;li&gt;heightmap&lt;/li&gt;&#xA;&lt;li&gt;Fractal methods&#xA;&lt;ul&gt;&#xA;&lt;li&gt;diamond-square&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;perlin noise&lt;/li&gt;&#xA;&lt;li&gt;agent-based methods&lt;/li&gt;&#xA;&lt;li&gt;search-based methods&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/05_grammars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/05_grammars/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter05.pdf&#34;&gt;chapter05.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Theo PTSD&lt;/li&gt;&#xA;&lt;li&gt;L-Systems&lt;/li&gt;&#xA;&lt;li&gt;Graph grammars&#xA;&lt;ul&gt;&#xA;&lt;li&gt;space grammars?&lt;/li&gt;&#xA;&lt;li&gt;generate missions/quests and levels&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/06_rules_and_mechanics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/06_rules_and_mechanics/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter06.pdf&#34;&gt;chapter06.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;encode/generate game rules&lt;/li&gt;&#xA;&lt;li&gt;and occasionally game entities that are strongly tied to rules&lt;/li&gt;&#xA;&lt;li&gt;Description languages&#xA;&lt;ul&gt;&#xA;&lt;li&gt;characteristics:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;expressivity of the encoding (the range of games it can represent)&lt;/li&gt;&#xA;&lt;li&gt;the density of allowable or feasible game rules&lt;/li&gt;&#xA;&lt;li&gt;compactness and human readability&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;key problem: evaluating the quality of the rules&lt;/li&gt;&#xA;&lt;li&gt;Constraint satisfaction approaches can also be used&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/07_planning_with_applications_to_quests_and_story/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/07_planning_with_applications_to_quests_and_story/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter07.pdf&#34;&gt;chapter07.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;generating stories&lt;/li&gt;&#xA;&lt;li&gt;Planning algorithms&#xA;&lt;ul&gt;&#xA;&lt;li&gt;find a path from an initial state to a goal state&lt;/li&gt;&#xA;&lt;li&gt;path can be interpreted as story&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;search in plan and state space&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Plan space&lt;/strong&gt;: Search of possible plans&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;state space&lt;/strong&gt;: build up through adding new parts sequentially&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Domain model&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;collection of facts about the world and possible actions&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;STRIPS&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ADL&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/08_answer_set_programming_asp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/08_answer_set_programming_asp/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter08.pdf&#34;&gt;chapter08.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;constrains and logical relations&lt;/li&gt;&#xA;&lt;li&gt;All world configuration =&amp;gt; answer set&lt;/li&gt;&#xA;&lt;li&gt;AnsProlog/Prolog are declarative languages&lt;/li&gt;&#xA;&lt;li&gt;Each answer&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/09_representation_-for_search_based_methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/09_representation_-for_search_based_methods/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter09.pdf&#34;&gt;chapter09.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;There are many representations for PCG&lt;/li&gt;&#xA;&lt;li&gt;representation of not only the contetn but also the generation algorithm itself&lt;/li&gt;&#xA;&lt;li&gt;representations can be tailored to extend the search-based paradigm&lt;/li&gt;&#xA;&lt;li&gt;e.g providing required content, a multi-step genotype-to-phenotype mapping&lt;/li&gt;&#xA;&lt;li&gt;compositional pattern-producing networks (CPPNs)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;neural network that maps position in some space to some property of pixels or particles.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/10_the_experience_driven_perspective/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/10_the_experience_driven_perspective/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter10.pdf&#34;&gt;chapter10.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;create algorithms to create content tailored to that player.&lt;/li&gt;&#xA;&lt;li&gt;player modelling&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Creating computational models of a player&amp;rsquo;s behaviour, preferences, or skills&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;the PCG should be fast but not necessarily noticeable.&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;h2 id=&#34;generation-based-on-player-models&#34;&gt;generation based on player models&lt;/h2&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/11_mixed_initiative_content_creation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/11_mixed_initiative_content_creation/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter11.pdf&#34;&gt;chapter11.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;co authoring between algorithm and human&lt;/li&gt;&#xA;&lt;li&gt;example if mixed-initiative PCG systems:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ranagra&lt;/li&gt;&#xA;&lt;li&gt;Sentient Sketchbook&lt;/li&gt;&#xA;&lt;li&gt;Ropossum&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;computer-aided design (CAD)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;directs creative process&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;interactive evolution&#xA;&lt;ul&gt;&#xA;&lt;li&gt;computer proposes new artifacts&lt;/li&gt;&#xA;&lt;li&gt;user solely provides feedback&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/12_evaluating_content_generators-desktop-gom3d4l/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/12_evaluating_content_generators-desktop-gom3d4l/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter12.pdf&#34;&gt;chapter12.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Evaluating your content generator is a very important task, but difficult to do well.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;visualizing the expressive range of generators (top-down)&lt;/li&gt;&#xA;&lt;li&gt;using questionnaires to understand the impact of your generator (bottom up)&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/12_evaluating_content_generators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/12_evaluating_content_generators/</guid>
+      <description>&lt;p&gt;online link: &lt;a href=&#34;https://www.pcgbook.com/chapter12.pdf&#34;&gt;chapter12.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Evaluating your content generator is a very important task, but difficult to do well.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgbook/13_misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgbook/13_misc/</guid>
+      <description>&lt;h1 id=&#34;constraint-based-systems&#34;&gt;Constraint Based Systems&lt;/h1&gt;&#xA;&lt;h1 id=&#34;tiles&#34;&gt;Tiles&lt;/h1&gt;&#xA;&lt;h1 id=&#34;distribution&#34;&gt;Distribution&lt;/h1&gt;&#xA;&lt;h1 id=&#34;interpretive&#34;&gt;Interpretive&lt;/h1&gt;&#xA;&lt;h1 id=&#34;simulations&#34;&gt;Simulations&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgwiki/design_of_level_content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgwiki/design_of_level_content/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://pcg.wikidot.com/pcg-algorithm:design-of-level-content&#34;&gt;http://pcg.wikidot.com/pcg-algorithm:design-of-level-content&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;use of PCG techniques at the design stage&lt;/li&gt;&#xA;&lt;li&gt;build game assets (levels, enemies, weapons)&lt;/li&gt;&#xA;&lt;li&gt;helps design process&#xA;&lt;ul&gt;&#xA;&lt;li&gt;rapidly populate the environment, altered by hand&lt;/li&gt;&#xA;&lt;li&gt;rapidly iterating throguh a number of PCG generated levels&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;popular for sandbox games&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;classic example: heightmaps using PCG techniques such as fractals/noise with hand-placed content&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgwiki/dynamic_systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgwiki/dynamic_systems/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://pcg.wikidot.com/pcg-algorithm:dynamic-systems&#34;&gt;http://pcg.wikidot.com/pcg-algorithm:dynamic-systems&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;includes&#xA;&lt;ul&gt;&#xA;&lt;li&gt;weather&lt;/li&gt;&#xA;&lt;li&gt;group/crownd behaviour&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;overlapping between AI and PCG&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgwiki/dynamic_world_generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgwiki/dynamic_world_generation/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://pcg.wikidot.com/pcg-algorithm:dynamic-world-generation&#34;&gt;http://pcg.wikidot.com/pcg-algorithm:dynamic-world-generation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;one of the first examples Elite&lt;/li&gt;&#xA;&lt;li&gt;random seed or user input (needs to be constant)&lt;/li&gt;&#xA;&lt;li&gt;growing the playing field iteratively using pseudorandom number generator techniques&lt;/li&gt;&#xA;&lt;li&gt;usually top-down subdivision e.g fractal and LOD implementations..&#xA;Issues:&lt;/li&gt;&#xA;&lt;li&gt;changing algorithm =&amp;gt; changes world&lt;/li&gt;&#xA;&lt;li&gt;prevents including content which has bottom up dependency&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgwiki/instancing_of_in_game_entities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgwiki/instancing_of_in_game_entities/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://pcg.wikidot.com/pcg-algorithm:instancing-of-in-game-entities&#34;&gt;http://pcg.wikidot.com/pcg-algorithm:instancing-of-in-game-entities&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;dynamically vary the parameters of in-game entities&lt;/li&gt;&#xA;&lt;li&gt;visible geometry, or in-game properties of an weapon or pieve of equipment&lt;/li&gt;&#xA;&lt;li&gt;e.g using pseudorandom number generation&lt;/li&gt;&#xA;&lt;li&gt;compressing the total amount of information required for each unique entity&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgwiki/procedural_puzzles_and_plot_generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgwiki/procedural_puzzles_and_plot_generation/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://pcg.wikidot.com/pcg-algorithm:procedural-puzzles-and-plot-generation&#34;&gt;http://pcg.wikidot.com/pcg-algorithm:procedural-puzzles-and-plot-generation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;door codes and other individual puzzle elements&lt;/li&gt;&#xA;&lt;li&gt;dependency graphs&#xA;&lt;ul&gt;&#xA;&lt;li&gt;changing its shape or procedurally place content required for puzzle&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;can be combined with Natural language processing&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgwiki/runtime_random_level_generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgwiki/runtime_random_level_generation/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://pcg.wikidot.com/pcg-algorithm:runtime-random-level-generation&#34;&gt;runtime-random-level-generation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;originated from rogue (random placed rooms and corridors)&lt;/li&gt;&#xA;&lt;li&gt;provides infinite game space, constrained by generation rules&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;connectivity types:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;set of stairs, doors, elevators&lt;/li&gt;&#xA;&lt;li&gt;victory conditions&lt;/li&gt;&#xA;&lt;li&gt;no explicit connection between levels, but accessable through hub/menu&lt;/li&gt;&#xA;&lt;li&gt;connected seamlessly&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Connectivity within a level:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;all parts needs to be connected&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;or a game mechanic supports removing walls etc.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;distinction between persistent and non-persistent levels&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;useful for storing huge worlds in a limited amount of storage&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pcgwiki/user_mediated_content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pcgwiki/user_mediated_content/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://pcg.wikidot.com/pcg-algorithm:user-mediated-content&#34;&gt;http://pcg.wikidot.com/pcg-algorithm:user-mediated-content&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;lowers the barrier for complex procedures such as level design or 3d modelling&lt;/li&gt;&#xA;&lt;li&gt;tune the content by altering PCG parameters, instead of understanding the underlying algorithm&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/spatial-stories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/spatial-stories/</guid>
+      <description>&lt;p&gt;Spatial stories are not badly constructed stories; rather, they are stories which respond to &lt;strong&gt;alternative aesthetic principles&lt;/strong&gt;, &lt;strong&gt;privileging spatial exploration over plot development&lt;/strong&gt;. Spatial stories are held together by broadly defined goals and conflicts and pushed forward by the character‘s movement across the map. ~ Henry Jenkins 2004&lt;/p&gt;&#xA;&lt;p&gt;Basically a Spatial story can happen in every location or during traversal between different location ~ Yixuan Cui 2025 LOL&lt;/p&gt;&#xA;&lt;p&gt;Similar/relating concepts (Spatial narrative):&#xA;Environmental Storytelling (Carson 2000)&#xA;- Story element infused into the physical space. Conveying a story through this space.&#xA;Evocative Spaces&#xA;- Drawing upon previously existing narratives. e.g story &amp;ldquo;traditions&amp;rdquo;&#xA;Embedded Spaces&#xA;- Information distributed across the Gamespace through explicit narratives (text, audio, visuals)&#xA;Stages Areas:&#xA;- a stage for the player to develop their own story&#xA;Emergent narrative&#xA;- Stories in the game shape themself through their gameplay e.g Minecraft or Sims&#xA;Enacting Stories&#xA;- enable players to experience narrative events using micronarratives&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
