@@ -1,4 +1,0 @@
-baseURL = "https://CYix1.github.io/PCG/"
-languageCode = "en-us"
-title = "Hello World"
-publishDir = "test"  # Important for GitHub Pages if using `main` branch
