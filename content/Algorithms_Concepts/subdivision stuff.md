@@ -1,7 +1,9 @@
-bsp tree etc.? 
+bsp tree etc.?
 
 # How it works (Concept)
+
 # Examples
+
 # Implementations?
 
 # Further Resources

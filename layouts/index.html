@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <div style="display: flex; gap: 2rem; padding: 2rem;">
+
+    <!-- Sidebar showing folder structure -->
+    <aside style="min-width: 200px; border-right: 1px solid #ccc; padding-right: 1rem;">
+      <h3>📁 Sections</h3>
+      <ul>
+        {{ range .Site.Sections }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+    </aside>
+
+    <!-- Main content from _index.md -->
+    <main style="flex: 1;">
+      {{ .Content }}
+    </main>
+
+  </div>
+{{ end }}
