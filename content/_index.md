@@ -1,7 +1,3 @@
 ---
-title: "Welcome to My Hugo Site"
+title: "Yixis Playground"
 ---
-
-# Hello 👋
-
-This is just a test of hugo and the content is from a sideproject about PCG

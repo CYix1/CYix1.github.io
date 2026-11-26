@@ -1,3 +1,7 @@
+---
+title: "Spatial Stories"
+---
+
 Spatial stories are not badly constructed stories; rather, they are stories which respond to **alternative aesthetic principles**, **privileging spatial exploration over plot development**. Spatial stories are held together by broadly defined goals and conflicts and pushed forward by the character‘s movement across the map. ~ Henry Jenkins 2004
 
 Basically a Spatial story can happen in every location or during traversal between different location ~ Yixuan Cui 2025 LOL

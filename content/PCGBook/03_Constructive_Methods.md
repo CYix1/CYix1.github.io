@@ -1,3 +1,9 @@
+---
+title: "Constructive Methods"
+weight: 3
+tags: ["PCGBook"]
+---
+
 online link: [chapter03.pdf](https://www.pcgbook.com/chapter03.pdf)
 
 ---

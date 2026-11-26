@@ -1,3 +1,9 @@
+---
+title: "The experience driven perspective"
+weight: 10
+tags: ["PCGBook"]
+---
+
 online link: [chapter10.pdf](https://www.pcgbook.com/chapter10.pdf)
 
 ---

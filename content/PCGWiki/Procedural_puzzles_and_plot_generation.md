@@ -1,3 +1,8 @@
+---
+title: "Procedural puzzles and plot generation"
+tags: ["PCGWiki"]
+---
+
 http://pcg.wikidot.com/pcg-algorithm:procedural-puzzles-and-plot-generation
 
 * door codes and other individual puzzle elements

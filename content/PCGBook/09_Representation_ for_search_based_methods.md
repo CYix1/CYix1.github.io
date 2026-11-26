@@ -1,3 +1,9 @@
+---
+title: "Representation for search based methods"
+weight: 9
+tags: ["PCGBook"]
+---
+
 online link: [chapter09.pdf](https://www.pcgbook.com/chapter09.pdf)
 
 ---

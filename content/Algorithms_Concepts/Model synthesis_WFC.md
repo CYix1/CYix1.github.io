@@ -1,3 +1,8 @@
+---
+title: "Model synthesis WFC"
+tags: ["Algorithms Concepts"]
+---
+
 # Model synthesis
 
 * technique for generating large complex 2D and 3D shapes

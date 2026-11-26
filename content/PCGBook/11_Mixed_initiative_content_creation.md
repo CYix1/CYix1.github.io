@@ -1,3 +1,9 @@
+---
+title: "Mixed initiative content creation"
+weight: 11
+tags: ["PCGBook"]
+---
+
 online link: [chapter11.pdf](https://www.pcgbook.com/chapter11.pdf)
 
 ---

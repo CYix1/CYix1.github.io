@@ -1,3 +1,8 @@
+---
+title: "Instancing of in game entities"
+tags: ["PCGWiki"]
+---
+
 http://pcg.wikidot.com/pcg-algorithm:instancing-of-in-game-entities
 
 * dynamically vary the parameters of in-game entities

@@ -1,3 +1,9 @@
+---
+title: "Rules and mechanics"
+weight: 6
+tags: ["PCGBook"]
+---
+
 online link: [chapter06.pdf](https://www.pcgbook.com/chapter06.pdf)
 
 ---

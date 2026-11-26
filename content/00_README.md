@@ -1,3 +1,8 @@
+---
+title: "README"
+weight: 0
+---
+
 These Markdown files are about the topic of Procedural content generation and should extend the knowledge gamespace graph by Daniel Dyrda.
 !!!The structure is WIP!!!
 
