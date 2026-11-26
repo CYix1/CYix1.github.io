@@ -1,3 +1,8 @@
+---
+title: "Dynamic world generation"
+tags: ["PCGWiki"]
+---
+
 http://pcg.wikidot.com/pcg-algorithm:dynamic-world-generation
 
 * one of the first examples Elite

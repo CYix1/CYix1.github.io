@@ -1,3 +1,8 @@
+---
+title: "Design of level content"
+tags: ["PCGWiki"]
+---
+
 http://pcg.wikidot.com/pcg-algorithm:design-of-level-content
 
 * use of PCG techniques at the design stage

@@ -1,3 +1,9 @@
+---
+title: "Search based PCG"
+weight: 2
+tags: ["PCGBook"]
+---
+
 online link: [chapter02.pdf](https://www.pcgbook.com/chapter02.pdf)
 
 ---

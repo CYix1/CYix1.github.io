@@ -1,3 +1,9 @@
+---
+title: "Procedural Content Generation (PCG)"
+weight: 1
+tags: ["PCGBook"]
+---
+
 online link: [chapter01.pdf](https://www.pcgbook.com/chapter01.pdf)
 
 ---

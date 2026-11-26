@@ -1,3 +1,8 @@
+---
+title: "Noise"
+tags: ["Algorithms Concepts"]
+---
+
 # How it works (Concept)
 
 basically a Texture with pseudorandom values for each position.

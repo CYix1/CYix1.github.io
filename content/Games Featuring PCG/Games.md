@@ -1,3 +1,8 @@
+---
+title: "Games"
+tags: ["Games Featuring PCG"]
+---
+
 |Name|Genre|Usage of PCG|Description|Link|
 |----|-----|------------|-----------|----|
 |Minecraft|sandbox open world|World generation|||

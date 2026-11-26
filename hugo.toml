@@ -1,12 +1,64 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Yixis Playground'
-theme = "phantom"
+baseURL = "https://cyix1.github.io/"
+languageCode = "en-us"
+title = "Yixis Playground"
+theme = "PaperMod"
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+enableRobotsTXT = true
+enableEmoji = true
+pagerSize = 10
+
+[markup.goldmark.renderer]
+  unsafe = true            # allow raw HTML inside Markdown
+
+[markup.highlight]
+  noClasses = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]   # JSON powers the search page
+
+[params]
+  env = "production"
+  mainSections = ["posts"]         # home page lists posts/
+  defaultTheme = "auto"            # light/dark follows the OS
+  ShowReadingTime = true
+  ShowToc = true
+  TocOpen = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButton = true
+  ShowShareButtons = false
+
+  [params.homeInfoParams]
+    Title = "Hi, I'm Yixi 👋"
+    Content = "Blog posts and notes. Notes on procedural content generation (PCG) live under the **PCG** menu."
+
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    threshold = 0.4
+    keys = ["title", "permalink", "summary", "content"]
+
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 10
+[[menu.main]]
+  name = "PCG Book"
+  url = "/pcgbook/"
+  weight = 20
+[[menu.main]]
+  name = "Algorithms"
+  url = "/algorithms_concepts/"
+  weight = 30
+[[menu.main]]
+  name = "PCG Wiki"
+  url = "/pcgwiki/"
+  weight = 40
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 50
+[[menu.main]]
+  name = "Search"
+  url = "/search/"
+  weight = 60

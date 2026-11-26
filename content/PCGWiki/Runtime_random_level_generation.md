@@ -1,3 +1,8 @@
+---
+title: "Runtime random level generation"
+tags: ["PCGWiki"]
+---
+
 [runtime-random-level-generation](http://pcg.wikidot.com/pcg-algorithm:runtime-random-level-generation)
 
 * originated from rogue (random placed rooms and corridors)

@@ -1,3 +1,8 @@
+---
+title: "Dynamic systems"
+tags: ["PCGWiki"]
+---
+
 http://pcg.wikidot.com/pcg-algorithm:dynamic-systems
 
 * includes

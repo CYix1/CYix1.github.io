@@ -1,3 +1,7 @@
+---
+title: "Further resources"
+---
+
 |Name/Link|Description|Tags|
 |---------|-----------|----|
 |<br>[Making Things Up: The Power and Peril of PCG](https://www.youtube.com/watch?v=B11RlHZsmGE)|GDC talk, great overview|\#Video #resource|

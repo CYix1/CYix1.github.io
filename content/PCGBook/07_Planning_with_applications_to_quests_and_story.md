@@ -1,3 +1,9 @@
+---
+title: "Planning with applications to quests and story"
+weight: 7
+tags: ["PCGBook"]
+---
+
 online link: [chapter07.pdf](https://www.pcgbook.com/chapter07.pdf)
 
 ---

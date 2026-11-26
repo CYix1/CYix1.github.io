@@ -1,3 +1,9 @@
+---
+title: "Fractal and noise"
+weight: 4
+tags: ["PCGBook"]
+---
+
 online link: [chapter04.pdf](https://www.pcgbook.com/chapter04.pdf)
 
 ---

@@ -1,3 +1,9 @@
+---
+title: "Answer Set programming (ASP)"
+weight: 8
+tags: ["PCGBook"]
+---
+
 online link: [chapter08.pdf](https://www.pcgbook.com/chapter08.pdf)
 
 ---
