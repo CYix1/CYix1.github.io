@@ -1,0 +1,13 @@
+<nav id="menu" aria-label="Main menu">
+  <div class="inner">
+    <h2>Menu</h2>
+    <ul class="links">
+      <li><a href="{{ "/" | relURL }}">Home</a></li>
+      {{ range site.Menus.main }}
+      <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+  <button type="button" class="close" id="menu-close" aria-label="Close menu">&times;</button>
+</nav>
+<div id="menu-backdrop"></div>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode | default "en" }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
+  {{ with or .Description .Summary }}<meta name="description" content="{{ . | plainify | truncate 160 }}">{{ end }}
+  <script>
+    (function () {
+      var t = null;
+      try { t = localStorage.getItem('theme'); } catch (e) {}
+      if (!t) t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      document.documentElement.dataset.theme = t;
+    })();
+  </script>
+  {{ partial "head-css.html" . }}
+  {{ range .AlternativeOutputFormats }}<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .RelPermalink }}">{{ end }}
+</head>
+<body>
+  <div id="wrapper">
+    {{ partial "header.html" . }}
+    {{ partial "menu.html" . }}
+    <div id="main">
+      {{ block "main" . }}{{ end }}
+    </div>
+    {{ partial "footer.html" . }}
+  </div>
+  {{ $js := resources.Get "js/main.js" | minify | fingerprint }}
+  <script src="{{ $js.RelPermalink }}" defer></script>
+</body>
+</html>

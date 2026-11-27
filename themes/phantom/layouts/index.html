@@ -1,0 +1,35 @@
+{{ define "main" }}
+<div class="inner">
+  <header class="major">
+    <h1>{{ site.Params.intro.title | default site.Title }}</h1>
+    {{ with site.Params.intro.content }}<p>{{ . | markdownify }}</p>{{ end }}
+  </header>
+
+  <section class="tiles">
+    {{ range $i, $s := site.Home.Sections.ByWeight }}
+      {{ $n := len $s.RegularPagesRecursive }}
+      {{ partial "tile.html" (dict "page" $s "i" $i "label" (printf "%d %s" $n (cond (eq $n 1) "page" "pages"))) }}
+    {{ end }}
+  </section>
+
+  {{ $latest := first 6 (where site.RegularPages "Section" "posts").ByDate.Reverse }}
+  {{ with $latest }}
+  <h2 class="section-title">Latest posts</h2>
+  <section class="tiles">
+    {{ range $i, $p := . }}
+      {{ partial "tile.html" (dict "page" $p "i" (add $i 3) "label" ($p.Date.Format "Jan 2, 2006")) }}
+    {{ end }}
+  </section>
+  {{ end }}
+
+  {{ $root := where site.RegularPages "Section" "" }}
+  {{ with $root }}
+  <h2 class="section-title">More</h2>
+  <section class="tiles">
+    {{ range $i, $p := . }}
+      {{ partial "tile.html" (dict "page" $p "i" (add $i 1) "label" "Page") }}
+    {{ end }}
+  </section>
+  {{ end }}
+</div>
+{{ end }}

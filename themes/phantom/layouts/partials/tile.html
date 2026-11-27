@@ -1,0 +1,11 @@
+{{- /* Expects: dict "page" <Page> "i" <int> "label" <string> */ -}}
+{{ $p := .page }}
+<article class="tile style{{ add (mod .i 6) 1 }}">
+  <a href="{{ $p.RelPermalink }}">
+    <span class="label">{{ .label }}</span>
+    <h2>{{ $p.Title }}</h2>
+    <div class="content">
+      <p>{{ with $p.Description }}{{ . }}{{ else }}{{ $p.Summary | plainify | truncate 110 }}{{ end }}</p>
+    </div>
+  </a>
+</article>
