@@ -1,0 +1,10 @@
+{{ define "main" }}
+<div class="inner">
+  <header class="major"><h1>{{ .Title }}</h1></header>
+  <ul class="chips">
+    {{ range .Data.Terms.Alphabetical }}
+    <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }} <span>{{ .Count }}</span></a></li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}

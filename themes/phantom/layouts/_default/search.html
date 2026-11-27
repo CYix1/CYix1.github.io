@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div class="inner post">
+  <header class="major"><h1>{{ .Title }}</h1></header>
+  <input type="search" id="q" class="search-box" autocomplete="off" autofocus
+         placeholder="{{ .Params.placeholder | default "Search" }}"
+         data-index="{{ "index.json" | relURL }}">
+  <p id="search-status" class="meta"></p>
+  <ul id="results" class="results"></ul>
+  <noscript><p>Search needs JavaScript.</p></noscript>
+</div>
+{{ end }}

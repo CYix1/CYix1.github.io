@@ -1,6 +1,6 @@
 # Yixis Playground
 
-Hugo + PaperMod site, published to https://cyix1.github.io/ by GitHub Actions.
+Hugo site with a custom Phantom-style theme (themes/phantom), published to https://cyix1.github.io/ by GitHub Actions.
 
 ## Publish a post (the normal workflow)
 

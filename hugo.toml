@@ -1,7 +1,7 @@
 baseURL = "https://cyix1.github.io/"
 languageCode = "en-us"
 title = "Yixis Playground"
-theme = "PaperMod"
+theme = "phantom"
 
 enableRobotsTXT = true
 enableEmoji = true
@@ -17,26 +17,9 @@ pagerSize = 10
   home = ["HTML", "RSS", "JSON"]   # JSON powers the search page
 
 [params]
-  env = "production"
-  mainSections = ["posts"]         # home page lists posts/
-  defaultTheme = "auto"            # light/dark follows the OS
-  ShowReadingTime = true
-  ShowToc = true
-  TocOpen = false
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  ShowCodeCopyButton = true
-  ShowShareButtons = false
-
-  [params.homeInfoParams]
-    Title = "Hi, I'm Yixi 👋"
-    Content = "Blog posts and notes. Notes on procedural content generation (PCG) live under the **PCG** menu."
-
-  [params.fuseOpts]
-    isCaseSensitive = false
-    shouldSort = true
-    threshold = 0.4
-    keys = ["title", "permalink", "summary", "content"]
+  [params.intro]
+    title = "Hi, I'm Yixi 👋"
+    content = "Blog posts and notes. Notes on procedural content generation (PCG) live under the **PCG** tiles below."
 
 [[menu.main]]
   name = "Posts"

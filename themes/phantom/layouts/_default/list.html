@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="inner">
+  <header class="major">
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}<div class="intro">{{ . }}</div>{{ end }}
+  </header>
+  <section class="tiles">
+    {{ range $i, $p := .Pages }}
+      {{ $label := cond (eq $p.Kind "section") (printf "%d pages" (len $p.RegularPagesRecursive)) (cond $p.Date.IsZero $p.Section ($p.Date.Format "Jan 2, 2006")) }}
+      {{ partial "tile.html" (dict "page" $p "i" $i "label" $label) }}
+    {{ end }}
+  </section>
+</div>
+{{ end }}
